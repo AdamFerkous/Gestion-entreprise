@@ -1,5 +1,5 @@
 <meta charset="utf-8">
-<h3 class="text-center">AJOUT DE METIER</h3>
+<h3 class="text-center">AJOUT DE METIER COOL</h3>
 <div class="row">
 <form action="index.php?ctl=metier&action=ajouterMetier" method="POST">
    <div class="form-inline">
